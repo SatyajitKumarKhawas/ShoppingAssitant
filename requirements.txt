@@ -1,0 +1,43 @@
+agno
+groq
+python-dotenv
+duckduckgo-search
+pypdf
+lancedb
+streamlit
+pandas
+tantivy
+yfinance
+streamlit
+python-dotenv
+
+# Agno Framework and AI Tools
+agno
+firecrawl-tools
+groq
+
+# Optional Enhancements and Utilities
+pandas
+requests
+tqdm
+aiohttp
+# Core Dependencies
+streamlit==1.29.0
+python-dotenv==1.0.0
+
+# AI/ML Libraries
+agno==0.1.0
+groq==0.4.2
+
+# Web Scraping & Search Tools
+firecrawl-py==0.0.5
+duckduckgo-search==4.1.1
+
+# Additional Dependencies
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Optional but Recommended
+pandas==2.1.4
+numpy==1.24.3
